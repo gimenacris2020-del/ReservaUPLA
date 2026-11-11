@@ -1,0 +1,35 @@
+# Visual Studio / .NET
+**/[Bb]in/
+**/[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.dotsettings
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+.pnpm-store/
+.env.local
+.env.*.local
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# Documentos excluidos de entrega
+*.pdf
+"Caso práctico  .pdf"
+INFORME_TECNICO.md
+INFORME_*.md
+
